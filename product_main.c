@@ -1,3 +1,5 @@
+//메뉴 관리 프로그램 
+//윤하성 개발 
 #include <string.h>
 #include <stdio.h>
 #include "product.h"
