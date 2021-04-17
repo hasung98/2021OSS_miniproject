@@ -170,7 +170,7 @@ void saveData(Product *s, int count){
    fclose(fp);
    printf("=>저장됨! ");
 }// 추가된 데이터나 수정된것을 파일로 저장하는 함수 
-/*
+
 int loadData(Product *s){
   int count = 0, i = 0;
   FILE *fp;
@@ -190,7 +190,7 @@ int loadData(Product *s){
     printf("=> 로딩 성공!\n");
     return i;
   }
-*/
+
   return 0;
 }//파일 불러오는 함수 
 
