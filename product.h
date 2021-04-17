@@ -19,4 +19,4 @@ void searchProduct_weight(Product p[], int count);
 void searchProduct_price(Product p[], int count);
 void searchProduct_star(Product p[], int count);
 //void saveData(Product *s, int count);
-//int loadData(Product *s);
+int loadData(Product *s);
